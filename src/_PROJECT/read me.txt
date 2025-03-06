@@ -1,0 +1,24 @@
+Project Name: Online Exam System
+Project Peripheral: JavaFX, Threading, Networking, File IO.
+Course: Advance OOP
+
+
+Project Description/Feature: 
+
+This a Java Destop application based project. It connects with a local netweork -> has a networking server, and implements threading -> for many clients, has File Management -> upload & download txt file, and a raw JavaFX -> for illustrate the UI, in order to conduct Online Exams.
+
+It has a server to communicate with its clients. there are 2 types, 1. Teacher, 2. Student. 
+-Teacher can login to their Portal with proper id and password, 
+id: teacher, pass:789 
+-Student can login to their Portal with proper id and password, 
+id: win, pass: 123.....  id:nayem, pass:456
+
+-Teacher can upload their question in txt format.
+-Teacher can set exam timer. 
+-After the exam, teacher can download all the answer script of students in a zip file
+
+-Students can download the question
+-Student can see the answer script submission deadline
+-Students can upload their own asnwer script it txt file. 
+
+-After the test, Both teacher and Student can logout from the Application 
